@@ -22,7 +22,7 @@ Passionate about designing scalable data pipelines, optimizing ETL workflows, an
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="55" alt="Apache Spark"/>
   <img width="18"/>
 
-  <img src="https://raw.githubusercontent.com/apache/hadoop/trunk/hadoop-common-project/hadoop-common/src/site/resources/images/hadoop-logo.jpg" height="55" alt="Apache Hadoop"/>
+ <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="55" alt="Hadoop"/>
   <img width="18"/>
 
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" height="55" alt="Hive"/>
