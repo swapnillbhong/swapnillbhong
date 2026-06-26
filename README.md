@@ -5,34 +5,78 @@
 
 <br/>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
+ <!-- Apache -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="Apache"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="Apache" />
-  <img width="12" />
+  <!-- Apache Spark -->
+  <img src="https://api.iconify.design/simple-icons/apachespark.svg" height="35" alt="Apache Spark"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img width="12" />
+  <!-- PySpark -->
+  <img src="https://api.iconify.design/simple-icons/apachespark.svg" height="35" alt="PySpark"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-  <img width="12" />
+  <!-- Hadoop -->
+  <img src="https://api.iconify.design/simple-icons/apachehadoop.svg" height="35" alt="Hadoop"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
-  <img width="12" />
+  <!-- Hive -->
+  <img src="https://api.iconify.design/simple-icons/apachehive.svg" height="35" alt="Hive"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img width="12" />
+  <!-- Kafka -->
+  <img src="https://api.iconify.design/simple-icons/apachekafka.svg" height="35" alt="Kafka"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img width="12" />
+  <!-- Databricks -->
+  <img src="https://api.iconify.design/simple-icons/databricks.svg" height="35" alt="Databricks"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
+  <!-- Delta Lake -->
+  <img src="https://api.iconify.design/simple-icons/delta.svg" height="35" alt="Delta Lake"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" />
-  <img width="12" />
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure"/>
+  <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" />
+  <!-- Azure Data Factory -->
+  <img src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="35" alt="Azure Data Factory"/>
+  <img width="12"/>
+
+  <!-- Azure Synapse -->
+  <img src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="35" alt="Azure Synapse"/>
+  <img width="12"/>
+
+  <!-- Azure Databricks -->
+  <img src="https://api.iconify.design/simple-icons/databricks.svg" height="35" alt="Azure Databricks"/>
+  <img width="12"/>
+
+  <!-- SQL (MySQL) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="SQL"/>
+  <img width="12"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
+  <img width="12"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
+  <img width="12"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+  <img width="12"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+  <img width="12"/>
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS"/>
+
+
 </div>
 <br/>
 
