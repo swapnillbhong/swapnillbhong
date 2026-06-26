@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Swapnil and I'm a Big Data Engineer</h2>
+<h1 align="left">Hi 👋, I'm Swapnil Bhong</h1>
+
+<h3 align="left">
+Big Data Engineer | Azure Databricks | Apache Spark | PySpark | SQL | Azure | AWS
+</h3>
+
+<p align="left">
+Passionate about designing scalable data pipelines, optimizing ETL workflows, and building cloud-native data solutions.
+</p>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3dW15aGZoMDE2cDNuNnR4czd3MHgzMGIxbmduaDg0aDBzMjJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.webp"  />
 
