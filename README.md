@@ -5,7 +5,7 @@
 
 <br/>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img src="CAMSVhoyKhBlLTBEb1BUdFBfcENtcG9NMg4wRG9QVHRQX3BDbXBvTToObVlGU1htV1JreVU4YU0gBCocCgZtb3NhaWMSEGUtMERvUFR0UF9wQ21wb00YADABGAcgib_Q0wZKCBABGAEgASgB"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
