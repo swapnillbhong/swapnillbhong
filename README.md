@@ -5,78 +5,24 @@
 
 <br/>
 <div align="left">
- <!-- Apache -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="Apache"/>
-  <img width="12"/>
-
-  <!-- Apache Spark -->
-  <img src="https://api.iconify.design/simple-icons/apachespark.svg" height="35" alt="Apache Spark"/>
-  <img width="12"/>
-
-  <!-- PySpark -->
-  <img src="https://api.iconify.design/simple-icons/apachespark.svg" height="35" alt="PySpark"/>
-  <img width="12"/>
-
-  <!-- Hadoop -->
-  <img src="https://api.iconify.design/simple-icons/apachehadoop.svg" height="35" alt="Hadoop"/>
-  <img width="12"/>
-
-  <!-- Hive -->
-  <img src="https://api.iconify.design/simple-icons/apachehive.svg" height="35" alt="Hive"/>
-  <img width="12"/>
-
-  <!-- Kafka -->
-  <img src="https://api.iconify.design/simple-icons/apachekafka.svg" height="35" alt="Kafka"/>
-  <img width="12"/>
-
-  <!-- Databricks -->
-  <img src="https://api.iconify.design/simple-icons/databricks.svg" height="35" alt="Databricks"/>
-  <img width="12"/>
-
-  <!-- Delta Lake -->
-  <img src="https://api.iconify.design/simple-icons/delta.svg" height="35" alt="Delta Lake"/>
-  <img width="12"/>
-
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure"/>
-  <img width="12"/>
-
-  <!-- Azure Data Factory -->
-  <img src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="35" alt="Azure Data Factory"/>
-  <img width="12"/>
-
-  <!-- Azure Synapse -->
-  <img src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="35" alt="Azure Synapse"/>
-  <img width="12"/>
-
-  <!-- Azure Databricks -->
-  <img src="https://api.iconify.design/simple-icons/databricks.svg" height="35" alt="Azure Databricks"/>
-  <img width="12"/>
-
-  <!-- SQL (MySQL) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="SQL"/>
-  <img width="12"/>
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
-  <img width="12"/>
-
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
-  <img width="12"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
-  <img width="12"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
-  <img width="12"/>
-
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS"/>
-
-
+ img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 <br/>
 
